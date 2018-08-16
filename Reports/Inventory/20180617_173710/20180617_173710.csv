@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Inventory,,,2018-06-17 17:37:13,2018-06-17 17:37:14,1.308s,PASSED
+,,,,,,
+Test Cases/Single Item,,,2018-06-17 17:37:14,2018-06-17 17:37:14,0.517s,PASSED
+Statement - return null,,,2018-06-17 17:37:14,2018-06-17 17:37:14,0.003s,PASSED

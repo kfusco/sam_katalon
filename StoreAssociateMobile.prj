@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>StoreAssociateMobile</name>
+   <tag></tag>
+   <UUID>ccb2ca25-5194-4359-824b-be53a5c6d8b0</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

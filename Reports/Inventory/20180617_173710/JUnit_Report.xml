@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Inventory" time="1" tests="1" failures="0" errors="0">
+   <testsuite name="Inventory" tests="1" failures="0" errors="0" time="1" timestamp="2018-06-17 17:37:13" hostname="kenfusco - 192.168.1.7" id="Test Suites/Inventory">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/kenfusco/Katalon Studio/StoreAssociateMobile/Reports/Inventory/20180617_173710"/>
+         <property name="logFiles" value="/Users/kenfusco/Katalon Studio/StoreAssociateMobile/Reports/Inventory/20180617_173710/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="kenfusco - 192.168.1.7"/>
+         <property name="hostAddress" value="192.168.1.7"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+      </properties>
+      <testcase name="Test Cases/Single Item" classname="Test Cases/Single Item" status="PASSED">
+         <system-out><![CDATA[2018-06-17 17:37:14 - [TEST_CASE][PASSED] - Test Cases/Single Item: Test Cases/Single Item
+
+2018-06-17 17:37:14 - [TEST_STEP][PASSED] - Statement - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-17 17:37:13 - [TEST_SUITE][PASSED] - Inventory: Test Cases/Single Item]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
