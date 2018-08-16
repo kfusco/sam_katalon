@@ -14,6 +14,6 @@
       <guid>92eea938-7bcc-4530-a043-7c55c880b4a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search/Search Beluga</testCaseId>
+      <testCaseId>Test Cases/Temp/Search_Wine_Fuzzy</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

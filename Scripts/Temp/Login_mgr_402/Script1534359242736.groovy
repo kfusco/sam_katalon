@@ -33,19 +33,11 @@ Mobile.setText(findTestObject('Login/android.widget.EditText1 - Password'), 'ell
 
 Mobile.tap(findTestObject('Login/android.view.ViewGroup8'), 0)
 
-Mobile.tap(findTestObject('Login/android.widget.TextView3 - '), 0)
+Mobile.tap(findTestObject('Login/android.view.ViewGroup7'), 0)
 
-Mobile.scrollToText('917-Total Wine - Wellington', FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Login/android.widget.ImageView0 (1)'), 0)
 
-Mobile.tap(findTestObject('Login/android.widget.CheckedTextView9 - 917-Total Wine - Wellington'), 0)
+Mobile.tap(findTestObject('Login/android.widget.TextView7 - Additional Info (1)'), 0)
 
-Mobile.tap(findTestObject('Login/android.view.ViewGroup6'), 0)
-
-Mobile.tap(findTestObject('Login/android.widget.ImageView0'), 0)
-
-Mobile.tapAndHold(findTestObject('Login/android.view.ViewGroup6'), 0, 0)
-
-Mobile.tap(findTestObject('Login/android.widget.TextView7 - Additional Info'), 0)
-
-Mobile.closeApplication()
+Mobile.getText(findTestObject('Login/android.widget.TextView7 - Additional Info (1)'), 0)
 

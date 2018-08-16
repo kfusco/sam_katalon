@@ -14,6 +14,6 @@
       <guid>b23926c8-7f75-4f7b-b5fc-62f8dd5ea08d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Login_mgr_402</testCaseId>
+      <testCaseId>Test Cases/Temp/Login_mgr_402</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

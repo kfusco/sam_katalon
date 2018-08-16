@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Search Beluga</name>
+   <name>Search_Wine_Fuzzy</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b3a95dde-c34b-4267-9c1b-66a5f7ea225c</testCaseGuid>

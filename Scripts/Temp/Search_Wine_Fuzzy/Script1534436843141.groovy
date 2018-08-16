@@ -33,5 +33,9 @@ Mobile.setText(findTestObject('Login/android.widget.EditText1 - Password'), 'ell
 
 Mobile.tap(findTestObject('Login/android.view.ViewGroup8'), 0)
 
-Mobile.tap(findTestObject('Login/android.view.ViewGroup7'), 0)
+Mobile.tap(findTestObject('Login/android.widget.TextView3 - '), 0)
+
+Mobile.scrollToText('917-Total Wine - Wellington', FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Login/android.widget.CheckedTextView9 - 917-Total Wine - Wellington'), 0)
 
